@@ -1,0 +1,6 @@
+{
+  "name": "Bias Variance Tradeoff Simulator",
+  "description": "An interactive visual simulator demonstrating the bias-variance trade-off in machine learning using polynomial curve fitting on custom generated data with an on-the-fly Python code generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
